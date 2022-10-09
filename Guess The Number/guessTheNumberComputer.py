@@ -18,4 +18,4 @@ def guess(x):
         elif(user_guess == random_number):
             print(f"{user_guess} is the correct guess!!!")
 
-guess(10)
+guess(20)
