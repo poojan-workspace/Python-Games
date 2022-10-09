@@ -1,6 +1,6 @@
 # Python-Games
 
-# Increasing Order of Difficulty >>>
+# Increasing Order of Difficulty :P
 
 1. Madlibs
 2. Guess The Number
